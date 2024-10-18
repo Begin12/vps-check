@@ -1,7 +1,7 @@
 [
   { "country": "aliyun-shanghai", "system": "ALiYun", "asn": "AS37963 Aliyun", "type": "VPS", "registrationDate": "2024-03-03", "expirationDate": "2025-03-13", "systemURL": "https://www.aliyun.com" },
   { "country": "aliyun-shanghai-1", "system": "ALiYun", "asn": "AS37963 Aliyun", "type": "VPS", "registrationDate": "2024-03-29", "expirationDate": "2025-03-29", "systemURL": "https://www.aliyun.com" },
-  { "country": "tencent-shanghai", "system": "Tencent", "asn": "AS45090 Tencent", "type": "VPS", "registrationDate": "2024-04-19", "expirationDate": "2025-04-19", "systemURL": "https://cloud.tencent.com" }
-  { "country": "huawei-shanghai", "system": "Huawei", "asn": "AS55990 Huawei", "type": "VPS", "registrationDate": "2024-02-12 ", "expirationDate": "2025-02-12", "systemURL": "https://www.huaweicloud.com" }
+  { "country": "tencent-shanghai", "system": "Tencent", "asn": "AS45090 Tencent", "type": "VPS", "registrationDate": "2024-04-19", "expirationDate": "2025-04-19", "systemURL": "https://cloud.tencent.com" },
+  { "country": "huawei-shanghai", "system": "Huawei", "asn": "AS55990 Huawei", "type": "VPS", "registrationDate": "2024-02-12 ", "expirationDate": "2025-02-12", "systemURL": "https://www.huaweicloud.com" },
   { "country": "Dogyun-hk", "system": "Dogyun", "asn": "AS932 Dogyun", "type": "VPS", "registrationDate": "2024-02-29 ", "expirationDate": "2025-02-29", "systemURL": "https://www.dogyun.com" }
 ]
